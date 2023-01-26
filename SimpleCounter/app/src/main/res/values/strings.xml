@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCounter</string>
+    <string name="upgradeString">Upgrade to Add 2</string>
+    <string name="defaultText">Add 1</string>
+</resources>
